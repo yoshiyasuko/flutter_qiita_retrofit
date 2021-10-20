@@ -33,6 +33,7 @@ dependencies:
   dio:
   freezed_annotation:
   webview_flutter:
+  provider:
 
 dev_dependencies:
   flutter_test:
