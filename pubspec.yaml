@@ -32,6 +32,7 @@ dependencies:
   retrofit:
   dio:
   freezed_annotation:
+  webview_flutter:
 
 dev_dependencies:
   flutter_test:
