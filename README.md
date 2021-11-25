@@ -1,6 +1,9 @@
 # flutter_qiita_retrofit
 
-A new Flutter project.
+Qiitaの記事一覧を表示するサンプルアプリ
+掲載記事
+- https://rightcode.co.jp/blog/information-technology/flutter-retrofit-api-1
+- https://rightcode.co.jp/blog/information-technology/flutter-retrofit-api-2
 
 ## Getting Started
 
