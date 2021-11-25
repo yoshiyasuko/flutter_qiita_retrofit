@@ -2,8 +2,8 @@
 
 Qiitaの記事一覧を表示するサンプルアプリ
 掲載記事
-- https://rightcode.co.jp/blog/information-technology/flutter-retrofit-api-1
-- https://rightcode.co.jp/blog/information-technology/flutter-retrofit-api-2
+- [【Flutter】Retrofitを使ってAPI通信をしてみよう！ 〜前編・API通信の実装〜](https://rightcode.co.jp/blog/information-technology/flutter-retrofit-api-1)
+- [【Flutter】Retrofitを使ってAPI通信をしてみよう！ 〜後編・ViewModelと画面の実装〜](https://rightcode.co.jp/blog/information-technology/flutter-retrofit-api-2)
 
 ## Getting Started
 
